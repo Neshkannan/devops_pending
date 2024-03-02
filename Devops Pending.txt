@@ -1,0 +1,18 @@
+Vid.12
+Vid.13
+Vid.14
+15
+16
+17
+18
+20
+21
+22
+
+Add.1 (Check dates)
+
+Linux commands hands on
+Networking commands hands on
+Git hub hands on 
+Shell scripting 
+
