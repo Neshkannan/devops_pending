@@ -1,0 +1,11 @@
+Linux
+Networking
+Github
+Docker
+Jenkins
+AWS
+CI/CD
+Terraform
+Kubernetes
+Configuration with ansible
+Prometheus,Grafana
